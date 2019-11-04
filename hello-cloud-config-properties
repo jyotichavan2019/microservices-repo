@@ -1,0 +1,2 @@
+the.value.from.my.properties.files=Good Day!!
+management.endpoints.web.exposure.include=*
